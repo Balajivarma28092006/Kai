@@ -34,7 +34,7 @@ func main() {
 		time.Sleep(300 * time.Millisecond)
 	}
 
-	fmt.Println("\n✅ All bar styles previewed.")
+	fmt.Println("\nAll bar styles previewed.")
 
 	fmt.Println("Progress Spinner Style Preview")
 	fmt.Println("==========================")
@@ -61,6 +61,6 @@ func main() {
 		time.Sleep(120 * time.Millisecond)
 	}
 
-	fmt.Println("\n✅ All spinner styles previewed.")
+	fmt.Println("\n All spinner styles previewed.")
 
 }
